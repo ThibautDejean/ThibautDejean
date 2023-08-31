@@ -8,7 +8,4 @@
 
 🧠 Currently, I am interning for a duration of 6 months at the Lyon Neuroscience Research Center (CRNL). The objective of this internship is to develop a method based on deep learning (specifically CNNs and GCNs) to detect markers of epilepsy in magnetoencephalographic (MEG) recordings of patients.
 
-### 💻 Tech Stack:
-
-Python HTML5 CSS3 JavaScript php SQLite PyTorch Pandas NumPy scikit-learn SciPy Matplotlib
 
