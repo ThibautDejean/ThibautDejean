@@ -6,6 +6,8 @@
 
 ✈️ During my 2nd year, I participated in a project to automate the military messaging system of the Air Base 942 of the French Air Force, aiming to facilitate the work of operators monitoring French air traffic.
 
-🧠 Currently, I am interning for a duration of 6 months at the Lyon Neuroscience Research Center (CRNL). The objective of this internship is to develop a method based on deep learning (specifically CNNs and GCNs) to detect markers of epilepsy in magnetoencephalographic (MEG) recordings of patients.
+🧠 During my gap year, I interned for six months at the Lyon Neuroscience Research Center (CRNL). The objective of this internship was to develop deep learning models, specifically CNNs and GCNs, to detect markers of epilepsy in magnetoencephalographic (MEG) recordings from patients. 
+
+:dna: Currently, I am an intern at the University of Hawaii at Manoa, where I'm working on fine-tuning and developing Protein Language Models (PLMs).
 
 
